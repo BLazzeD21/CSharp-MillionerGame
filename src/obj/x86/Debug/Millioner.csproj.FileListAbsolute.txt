@@ -1,0 +1,134 @@
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.03\To home\Millioner\bin\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.03\To home\Millioner\bin\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.03\To home\Millioner\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.03\To home\Millioner\obj\x86\Debug\Millioner.Properties.Resources.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.03\To home\Millioner\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.03\To home\Millioner\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.03\To home\Millioner\obj\x86\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.03\To home\Millioner\obj\x86\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.03\To home\Millioner\obj\x86\Debug\Millioner.FormWelcome.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\obj\x86\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\obj\x86\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\bin\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\bin\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\obj\x86\Debug\Millioner.FormWelcome.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\obj\x86\Debug\Millioner.Properties.Resources.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.10\To home\Millioner\obj\x86\Debug\Millioner.frmMillioner.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\obj\x86\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\obj\x86\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\bin\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\bin\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\obj\x86\Debug\Millioner.FormWelcome.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\obj\x86\Debug\Millioner.frmMillioner.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\obj\x86\Debug\Millioner.Properties.Resources.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.17\To home\Millioner\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\obj\x86\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\obj\x86\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\bin\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\bin\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\obj\x86\Debug\Millioner.FormWelcome.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\obj\x86\Debug\Millioner.frmMillioner.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\obj\x86\Debug\Millioner.Properties.Resources.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.24\To home\Millioner\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\obj\x86\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\obj\x86\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\obj\x86\Debug\Millioner.FormWelcome.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\obj\x86\Debug\Millioner.frmMillioner.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\obj\x86\Debug\Millioner.Properties.Resources.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\bin\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.03.31\To home\Millioner\bin\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\obj\x86\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\obj\x86\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\bin\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\bin\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\obj\x86\Debug\Millioner.FormWelcome.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\obj\x86\Debug\Millioner.frmMillioner.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\obj\x86\Debug\Millioner.Properties.Resources.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.07\To home\Millioner\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\obj\x86\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\obj\x86\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\bin\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\bin\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\obj\x86\Debug\Millioner.FormWelcome.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\obj\x86\Debug\Millioner.frmMillioner.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\obj\x86\Debug\Millioner.Properties.Resources.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.14\To home\Millioner\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.FormWelcome.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.frmMillioner.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.Properties.Resources.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\bin\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\bin\Debug\Millioner.pdb
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.exe
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.pdb
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\bin\Debug\Millioner.exe
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\bin\Debug\Millioner.pdb
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.FormWelcome.resources
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.frmMillioner.resources
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.Properties.Resources.resources
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.csproj.GenerateResource.Cache
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.csprojResolveAssemblyReference.cache
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\2019.04.21\To home\Millioner\obj\x86\Debug\Millioner.Form3.resources
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\obj\x86\Debug\Millioner.exe
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\obj\x86\Debug\Millioner.pdb
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\bin\Debug\Millioner.exe
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\bin\Debug\Millioner.pdb
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\obj\x86\Debug\Millioner.csprojResolveAssemblyReference.cache
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\obj\x86\Debug\Millioner.FormWelcome.resources
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\obj\x86\Debug\Millioner.frmMillioner.resources
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\obj\x86\Debug\Millioner.Form3.resources
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\obj\x86\Debug\Millioner.Properties.Resources.resources
+C:\Users\Seker\Desktop\READY 2018 - 2019\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\READY\obj\x86\Debug\Millioner.csproj.GenerateResource.Cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\bin\Debug\Millioner.exe
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\bin\Debug\Millioner.pdb
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.FormWelcome.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.frmMillioner.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.Form3.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.Properties.Resources.resources
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\bin\Debug\Millioner.exe
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\bin\Debug\Millioner.pdb
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.csprojAssemblyReference.cache
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.FormWelcome.resources
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.frmMillioner.resources
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.Form3.resources
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.Properties.Resources.resources
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.csproj.GenerateResource.cache
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.csproj.CoreCompileInputs.cache
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.exe
+C:\Users\Seker\Desktop\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.pdb
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\bin\Debug\Millioner.exe.config
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\bin\Debug\Millioner.exe
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\bin\Debug\Millioner.pdb
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.csproj.AssemblyReference.cache
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.csproj.SuggestedBindingRedirects.cache
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.FormWelcome.resources
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.frmMillioner.resources
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.Form3.resources
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.Properties.Resources.resources
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.csproj.GenerateResource.cache
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.csproj.CoreCompileInputs.cache
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.exe
+A:\Programming\02_C#_Project\02_C#_Project\Millioner_SekerinAlexsandr_k0505\Millioner_SekerinAlexsandr_k0505\PROJECT\obj\x86\Debug\Millioner.pdb
